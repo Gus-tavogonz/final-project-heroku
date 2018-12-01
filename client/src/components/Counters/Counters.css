@@ -1,0 +1,42 @@
+.counter{
+    background-color:#1ab3e2;;
+    margin-top: 5px;
+    padding: 10px;
+    width: 80%;
+    height: 200px;
+    margin:auto
+}
+
+
+.counter:hover{
+    background-color:#00ccff;;
+  
+}
+.counter-text{
+    color: white;
+    font-size: 20px;
+}
+
+.study-session{
+    background-color: 	#1ab3e2;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border-radius:5px;
+    margin-bottom: 20px;
+}
+
+.display-2{
+    color: white;
+    text-align: center
+}
+.btn{
+    margin: auto;
+    align-content: center
+}
+
+#demo{
+    margin-top: 12px;
+    margin-bottom: 12px;
+}

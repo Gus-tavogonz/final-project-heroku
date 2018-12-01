@@ -1,0 +1,22 @@
+
+
+
+
+.jumbotron-fluid {
+    background-image: url("https://i.imgur.com/qMaRDzL.jpg");
+    background-size: cover;
+    margin-bottom: 20px
+}
+
+.display-4{
+    color: white;
+    margin-top: 60px;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    -webkit-animation: Gradient 15s ease infinite;
+	-moz-animation: Gradient 15s ease infinite;
+	animation: Gradient 15s ease infinite;
+}
+

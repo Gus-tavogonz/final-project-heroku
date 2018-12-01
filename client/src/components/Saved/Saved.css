@@ -1,0 +1,32 @@
+.pull-right{
+    float: left;
+    margin: auto;
+    
+}
+
+.div-title{
+    float:left;
+    margin:auto
+}
+
+
+.delete{
+    
+}
+
+.btn-primary{
+    background-color: #26e0d7;
+}
+
+.red:hover{
+    background-color: #d80000;
+}
+
+
+
+.media-object{
+
+    width: 70%;
+    float: right;
+   
+}

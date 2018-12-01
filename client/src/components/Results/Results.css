@@ -1,0 +1,23 @@
+.card {
+    background: #fff;
+    border-radius: 2px;
+    height: 275px;;
+    margin: 16px;
+    position: relative;
+    width: 235px;
+    text-align: left;
+    float: left;
+    padding: 4px;
+  }
+  
+  .card > .img-container {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    background:#6CADDC;
+  
+  }
+
+.result-image{
+  width: 100%;
+}
